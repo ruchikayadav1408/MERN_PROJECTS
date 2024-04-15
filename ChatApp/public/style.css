@@ -1,0 +1,30 @@
+.chat{
+background-color: aliceblue;
+padding: 20px;
+border-radius: 15px;
+display:inline-flexbox;
+}
+
+body{
+    margin-left:20px;
+}
+
+.mesg{
+    background-color: dodgerblue;
+    color: white;
+    padding: 5px 15px;
+}
+
+button.new-chat-btn {
+    padding: 10px 20px;
+    background-color: #265c9a;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button.new-chat-btn:hover {
+    background-color: #0056b3;
+}
